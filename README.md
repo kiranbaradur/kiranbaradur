@@ -6,7 +6,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="kiranbaradur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="kiranbaradur | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="kiranbaradur | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="kiranbaradur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kiranbaradur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kiranbaradur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kiranbaradur | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -36,7 +38,8 @@
 
 <img align="left" alt="kiranbaradur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kiranbaradur&show_icons=true&hide_border=true" />
 
-[kiranbaradur]: [https://github.com/kiranbaradur/]
+[kiranbaradur]: https://github.com/kiranbaradur/
+[gmail]: mailto:kiranbaradur@gmail.com
 [twitter]: https://twitter.com/kiranbaradur
 [instagram]: https://instagram.com/kiranbaradur
 [linkedin]: https://linkedin.com/in/kiranbaradur
@@ -51,3 +54,4 @@
 [MongoDB]: https://docs.mongodb.com/
 [github]: https://github.com/
 [facebook]: https://www.facebook.com/kiranbaradur
+[whatsapp]: https://api.whatsapp.com/send?phone=9686848985
