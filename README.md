@@ -1,4 +1,4 @@
-### Hi there, I'm Kiran 👋
+### Hi there, [kiranbaradur](https://github.com/kiranbaradur/) 👋
 
 ## I'm a Student, Developer !
 - 🌱 I’m currently learning everything 🤣
@@ -6,9 +6,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="kiranbaradur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="kiranbaradur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="kiranbaradur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="kiranbaradur | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -35,6 +36,7 @@
 
 <img align="left" alt="kiranbaradur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kiranbaradur&show_icons=true&hide_border=true" />
 
+[kiranbaradur]: [https://github.com/kiranbaradur/]
 [twitter]: https://twitter.com/kiranbaradur
 [instagram]: https://instagram.com/kiranbaradur
 [linkedin]: https://linkedin.com/in/kiranbaradur
@@ -48,3 +50,4 @@
 [MySQL]: https://www.mysql.com/
 [MongoDB]: https://docs.mongodb.com/
 [github]: https://github.com/
+[facebook]: https://www.facebook.com/kiranbaradur
