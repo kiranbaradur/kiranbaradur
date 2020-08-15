@@ -39,11 +39,11 @@
 <img align="left" alt="kiranbaradur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kiranbaradur&show_icons=true&hide_border=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranbaradur&hide=TeX&layout=compact)
-<br />
+
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kiranbaradur.kiranbaradur)
-<br />
+
 
 
 [kiranbaradur]: https://github.com/kiranbaradur/
