@@ -1,6 +1,6 @@
 ### Hi there, [kiranbaradur](https://github.com/kiranbaradur/) 👋
 
-## I'm a Student, Developer !
+## I'm a Student
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Building a **DataScience** Project
 
