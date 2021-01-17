@@ -2,7 +2,6 @@
 
 ## I'm a Student
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Building a **DataScience** Project
 
 ### Connect with me:
 
