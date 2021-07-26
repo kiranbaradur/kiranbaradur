@@ -1,4 +1,4 @@
-### Hi there, [kiranbaradur](https://kiranbaradur.herokuapp.com/) 👋
+### Hi there, [kiranbaradur](https://kiranbaradur.herokuapp.com/){:target="_blank" rel="noopener"} 👋
 
 ## I'm a Student
 - 🌱 I’m currently learning everything 🤣
